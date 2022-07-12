@@ -8,7 +8,7 @@
  <p><b>- CSS</b></p>
   
 <p align="center">
-<img src="https://github.com/felipefll/we-care-about-your-pet/blob/master/PROJETO%2003/assets/mockup.png?raw=true" />  
+<img src="https://github.com/felipefll/We-Care-About-Your-Pet/blob/master/assets/mockup.png?raw=true" />  
 </p>
 
 
